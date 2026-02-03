@@ -1,0 +1,5 @@
+{
+  "name": "LuckyDraw - Sistem Undian Berhadiah",
+  "description": "A comprehensive raffle and door prize management system featuring participant management, prize allocation, bulk drawing with verification, and winner reporting with PDF export.",
+  "requestFramePermissions": []
+}
